@@ -32,8 +32,8 @@
 
 - [ ] Altura e largura das imagens da galeria devem ser iguais. Como pode ver, a primeira imagem está menor de largura e maior de altura do que a segunda imagem:
 	
- 	*Versão atual:*\
-	![](https://raw.githubusercontent.com/luismod-eficaz/shopify-theme-adjusts/main/img/Pasted%20image%2020240411153950.png)
+ 	*Versão atual:* \	
+![](https://raw.githubusercontent.com/luismod-eficaz/shopify-theme-adjusts/main/img/Pasted%20image%2020240411153950.png)
 
 
 - [ ] Verificar funcionamento das abas do produto. (Quando passa o mouse em cima de qualquer aba, continua trazendo a descrição). Adicionar também um espaçamento entre as abas e o conteúdo:
