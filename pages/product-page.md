@@ -49,3 +49,19 @@
 *Note pela marcação em azul que o frame todo esta selecionado. E reparando na marcação vermelha, podemos notar que a pagina inteira foi selecionada, sem deixar nada de fora.* \
 ![](https://raw.githubusercontent.com/luismod-eficaz/shopify-theme-adjusts/main/img/Pasted%20image%2020240411160148.png)
 
+
+<style>
+	body{
+		background-color: #24292e !important;
+		color: #fff;
+	}
+	.markdown-body h1{
+		border: 1px solid #fafbfc !important;
+	}
+	.markdown-body h2{
+		border: 1px solid #fafbfc !important;
+	}
+	.task-list-item p input{
+		margin: 0 10px !important;
+	}
+</style>
