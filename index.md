@@ -6,10 +6,10 @@
 		color: #fff;
 	}
 	.markdown-body h1{
-		border: 1px solid #fafbfc !important;
+		border-bottom: 1px solid #fafbfc !important;
 	}
 	.markdown-body h2{
-		border: 1px solid #fafbfc !important;
+		border-bottom: 1px solid #fafbfc !important;
 	}
 	.task-list-item p input{
 		margin: 0 10px !important;
