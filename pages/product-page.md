@@ -8,10 +8,13 @@
 
 
 - [ ] Botão "ver mais" ao clicar não executa a função de mostrar o restante do texto.
-	![[Pasted image 20240411141013.png]]
+
+	![](https://github.com/luismod-eficaz/shopify-theme-adjusts/blob/main/img/Pasted%20image%2020240411141013.png)
 
 - [ ] Centralizar textos das variações dentro do circulo e verificar se é possível alterar os textos da cor para a cor em questão (ao invés do texto "preto", preencher o circulo com a cor preta):
-![[Pasted image 20240411141852.png]]
+
+	*Design* \
+	![](https://github.com/luismod-eficaz/shopify-theme-adjusts/blob/main/img/Pasted%20image%2020240411141852.png)
 
 - [ ] Adicionar selos do produto, igual tem no design:
 	*Design*
@@ -22,12 +25,13 @@
 	*Versão atual:*
 	![](https://github.com/luismod-eficaz/shopify-theme-adjusts/blob/main/img/Pasted%20image%2020240411141648.png)
 
-	 *Design:* ![[Pasted image 20240411141537.png]]
+	 *Design:*
 	![](https://github.com/luismod-eficaz/shopify-theme-adjusts/blob/main/img/Pasted%20image%2020240411141537.png)
 
 
 - [ ] Altura e largura das imagens da galeria devem ser iguais. Como pode ver, a primeira imagem está menor de largura e maior de altura do que a segunda imagem:
-	*Versão atual:*
+	
+ 	*Versão atual:*
 	![](https://github.com/luismod-eficaz/shopify-theme-adjusts/blob/main/img/Pasted%20image%2020240411153950.png)
 
 
