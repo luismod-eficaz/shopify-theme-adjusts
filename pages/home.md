@@ -11,3 +11,21 @@
 ![](https://raw.githubusercontent.com/luismod-eficaz/shopify-theme-adjusts/main/img/imghome3.png)
 
 
+<style>
+	body{
+		background-color: #24292e !important;
+		color: #fff;
+	}
+	.markdown-body h1{
+		border-bottom: 1px solid #fafbfc !important;
+	}
+	.markdown-body h2{
+		border-bottom: 1px solid #fafbfc !important;
+	}
+	.task-list-item p input{
+		margin: 0 10px !important;
+	}
+	.task-list-item{
+		list-style-type: none;
+	}
+</style>
