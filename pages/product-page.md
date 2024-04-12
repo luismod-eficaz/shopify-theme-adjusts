@@ -64,4 +64,7 @@
 	.task-list-item p input{
 		margin: 0 10px !important;
 	}
+	.task-list-item{
+		list-style-type: none;
+	}
 </style>
