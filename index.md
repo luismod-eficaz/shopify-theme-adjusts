@@ -1,3 +1,4 @@
+[Home](https://luismod-eficaz.github.io/shopify-theme-adjusts/pages/home)
 [Pagina de produto](https://luismod-eficaz.github.io/shopify-theme-adjusts/pages/product-page)
 
 <style>
